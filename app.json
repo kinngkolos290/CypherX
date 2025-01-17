@@ -11,7 +11,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Xploader session id here; must start with XPLOADER-BOT:~",
-      "value": "",
+      "value": "XPLOADER-BOT:~HnIxVBTT#vtnD3hnAe4rFuUJyUXET68Fi6vrHvMxo0j-M3Vrk9WI",
       "required": false
     },
     "BOT_NAME": {
@@ -21,12 +21,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here",
-      "value": "254754783972",
+      "value": "23274448130",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "Tylor",
+      "value": "Take Tee",
       "required": true
     },
     "STICKER_PACK_NAME": {
@@ -71,7 +71,7 @@
     },
     "WELCOME_MSG": {
       "description": "Set true to enable and false to disable welcome messages",
-      "value": "false",
+      "value": "true",
       "required": false
     },
     "TIMEZONE": {
@@ -86,7 +86,7 @@
     },
     "AUTO_READ": {
       "description": "Set true to enable automatic reading of messages",
-      "value": "false",
+      "value": "true",
       "required": false
     },
     "MENU_STYLE": {
