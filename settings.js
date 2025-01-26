@@ -17,15 +17,15 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //=================================================//
 global.SESSION_ID = process.env.SESSION_ID || '' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
-
+XPLOADER-BOT:~L2YADDqD#0a8S8gqSPanAWPSWIDEmZ31Lf11oL7Fy89J35GE_liI
 //=================================================//
 global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT' 
 //Your desired bot name
-
+Tinosa
 //=================================================//
 global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
 //Type your main number here
-
+263719584269
 //=================================================//
 global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', '254712345678'];
 // Type additional allowed users here
