@@ -75,7 +75,7 @@ global.alwaysonline = process.env.ALWAYS_ONLINE || 'true'
 
 
 //=================================================//
-global.chatbot = process.env.CHATBOT || 'false'
+global.chatbot = process.env.CHATBOT || 'true'
 // set true to enable and false to disable auto ai chatbot
 
 //=================================================//
