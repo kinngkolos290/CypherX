@@ -18,14 +18,14 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.SESSION_ID = process.env.SESSION_ID || '' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
-//=================================================//
+//XPLOADER-BOT:~u6QlwC4Z#yPR7jTa6vV5UIQJKvvwtWJI7eiqIpKpDu0RlEUG4QWM//
 global.botname = process.env.BOT_NAME || 'CypherX' 
 //Your desired bot name
-
+Hipster savvy1 
 //=================================================//
 global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
 //Type your main number here
-
+254756389460
 //=================================================//
 global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', '254712345678'];
 // Type additional allowed users here
@@ -34,7 +34,7 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', 
 //=================================================//
 global.ownername = process.env.OWNER_NAME || 'Tylor' 
 //Type your name here
-
+Hipster savvy1 
 //=================================================//
 global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
 
@@ -48,7 +48,7 @@ global.packname = process.env.STICKER_PACK_NAME || "Cypher"
 //=================================================//
 global.author = process.env.STICKER_AUTHOR_NAME || "X" 
 //The sticker author name
-
+☠️💀
 //=================================================//
 global.prefixz = process.env.BOT_PREFIX || '.'
 //Set your desired prefix
@@ -61,9 +61,9 @@ global.mode = process.env.MODE || 'public';
 // Set 'pm' to enable only private chats
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '💚'
 //Enter the emoji that you wish to be reacted to statuses 
-
+💚
 //=================================================//
 global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 // set true to enable and false to disable auto status view
