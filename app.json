@@ -12,7 +12,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~",
-      "value": "",
+      "value": "XPLOADER-BOT:~G2IVAYob#yknduQOXhKOHBhcY7mw1miuvdr6gmTJcQ7a1U3f9G1o",
       "required": false
     },
     "BOT_NAME": {
@@ -22,12 +22,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 2547xxxxxxxx",
-      "value": "",
+      "value": "23274448130",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Mr Take Tee",
       "required": true
     },
     "STICKER_PACK_NAME": {
@@ -52,7 +52,7 @@
     },
     "BOT_PREFIX": {
       "description": "Enter your desired prefix here",
-      "value": ".",
+      "value": "_",
       "required": true
     },
     "MODE": {
@@ -87,7 +87,7 @@
     },
     "STATUS_EMOJI": {
       "description": "Set your desired status reaction emoji",
-      "value": "🧡",
+      "value": "💸🇸🇱",
       "required": false
     },
     "CHATBOT": {
@@ -112,7 +112,7 @@
     },
     "SUDO": {
       "description": " Type additional allowed users here. They'll be able to use all the functions of the bot without restrictions. Separate with comma incase of more than one number.",
-      "value": "2547xxxxxxxxx,263xxxxxxxxxx",
+      "value": "23274448130,23276619734",
       "required": false
     },
     "AUTO_READ": {
@@ -122,7 +122,7 @@
     },
     "MENU_STYLE": {
       "description": "Menu style, options 1, 2, 3, 4, 5 or 6",
-      "value": "2",
+      "value": "3",
       "required": false
     }
   },
