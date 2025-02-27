@@ -52,7 +52,7 @@
     },
     "BOT_PREFIX": {
       "description": "Enter your desired prefix here",
-      "value": "_",
+      "value": ".",
       "required": true
     },
     "MODE": {
@@ -87,7 +87,7 @@
     },
     "STATUS_EMOJI": {
       "description": "Set your desired status reaction emoji",
-      "value": "💸🇸🇱",
+      "value": "🇸🇱",
       "required": false
     },
     "CHATBOT": {
