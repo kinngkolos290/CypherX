@@ -18,7 +18,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~G2IVAYob#yknduQOXhKOHBhcY7mw1miuvdr6gmTJcQ7a1U3f9G1o' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //--------------------[ BOT NAME ]----------------------//
@@ -27,17 +27,17 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '23274448130'
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', '254712345678'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['23274448130', '23276619734'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Mr Take Tee'
 
 //------------[ STICKER PACKNAME ]-----------------//
 
@@ -49,7 +49,7 @@ global.author = process.env.STICKER_AUTHOR_NAME || "X"
 
 //-------------------[ BOT'S PREFIX ]--------------------//
 
-global.prefixz = process.env.BOT_PREFIX || '.'
+global.prefixz = process.env.BOT_PREFIX || '_'
 
 //-----------------[ BOT'S MODE ]-----------------------//
 
@@ -61,7 +61,7 @@ global.mode = process.env.MODE || 'public';
 
 //----------[ STATUS REACTION EMOJI ]--------------//
 
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '💸🇸🇱'
 
 //---------------[ AUTO VIEW STATUS ]---------------//
 
@@ -122,7 +122,7 @@ global.autoread = process.env.AUTO_READ || 'false';
 
 //-------------------[ MENU STYLE ]--------------------//
 
-global.menustyle = process.env.MENU_STYLE || '2' 
+global.menustyle = process.env.MENU_STYLE || '3' 
 // options 1, 2, 3, 4, 5 or 6
 // 1 = Document menu(Android only)
 // 2 = Text only menu(Android & iOS)
