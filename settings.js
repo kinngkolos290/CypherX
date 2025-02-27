@@ -49,7 +49,7 @@ global.author = process.env.STICKER_AUTHOR_NAME || "X"
 
 //-------------------[ BOT'S PREFIX ]--------------------//
 
-global.prefixz = process.env.BOT_PREFIX || '_'
+global.prefixz = process.env.BOT_PREFIX || '.'
 
 //-----------------[ BOT'S MODE ]-----------------------//
 
@@ -61,7 +61,7 @@ global.mode = process.env.MODE || 'public';
 
 //----------[ STATUS REACTION EMOJI ]--------------//
 
-global.statusemoji = process.env.STATUS_EMOJI || '💸🇸🇱'
+global.statusemoji = process.env.STATUS_EMOJI || '🇸🇱'
 
 //---------------[ AUTO VIEW STATUS ]---------------//
 
