@@ -7,7 +7,7 @@
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +923311397803
 
 //----------------------[ CYPHER-X ]----------------------//
 
@@ -29,12 +29,12 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '923311397803' 
 // Your personal contact number. If you want to call Tylor, this is the number. 👀
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'ZaRab Baloch' 
 // Set your name, currently it's the mastermind's. The one and only... Tylor. (Don't ask how I got here, it's a mystery.)
 
 //------------[ STICKER PACKNAME ]-----------------//
