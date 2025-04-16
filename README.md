@@ -1,3 +1,5 @@
+# credit : supreme destructor +50938025349
+
 <h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
 
 <p align="center">
